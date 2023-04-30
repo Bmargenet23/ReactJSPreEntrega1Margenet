@@ -1,0 +1,31 @@
+{
+    "articulos": [
+      {
+        "sku": 1,
+        "articulo": "Camiseta Newells",
+        "año": 2020,
+        "category": "Nacional",
+        "precio": 14500,
+        "img": "img/productos/camisetanewells.jpg",
+        "marca": "Umbro"
+      },
+      {
+        "sku": 2,
+        "articulo": "Camiseta Barcelona",
+        "año": 2021,
+        "category": "Internacional",
+        "precio": 20200,
+        "img": "img/productos/camisetabarcelona.jpg",
+        "marca": "Nike"
+      },
+      {
+        "sku": 3,
+        "articulo": "Camiseta Argentina",
+        "año": 2022,
+        "category": "Selecciones",
+        "precio": 22500,
+        "img": "img/productos/camisetaargentina.jpg",
+        "marca": "Adidas"
+      }
+    ]
+}

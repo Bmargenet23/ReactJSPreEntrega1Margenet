@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "title": "Newell's Old Boys",
+      "description": "Camiseta titular del Club Atletico Newell's Old Boys utilizada en la temporada 2021, marca Umbro.",
+      "image": "../imgs/camisetanewells.jpg",
+      "price": 12500,
+      "category": "Nacional",
+      "stock": 5
+    },
+    {
+      "id": 2,
+      "title": "Barcelona FC",
+      "description": "Camiseta titular del Barcelona Futbol Club español utilizada en la temporada 2019 con dorsal n°10 en su espalda.",
+      "image": "../imgs/camisetabarcelona.jpg",
+      "price": 21000,
+      "category": "Internacional",
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "title": "Seleccion Argentina",
+      "description": "Camiseta titular de la seleccion nacional Argentina del año 2022, utilizada en el mundial de Qatar.",
+      "image": "../imgs/camisetaargentina.jpg",
+      "price": 22000,
+      "category": "Selecciones",
+      "stock": 5
+    }
+]
